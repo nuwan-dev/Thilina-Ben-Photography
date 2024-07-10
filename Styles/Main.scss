@@ -1,0 +1,14 @@
+@import 'var';
+
+body {
+    font-family: $poppins;
+    background-color: #000;
+    color: $txt-color;
+    margin: 0;
+    font-size: 12px;
+
+    a {
+        text-decoration: none;
+        color: $txt-color;
+    }
+}
