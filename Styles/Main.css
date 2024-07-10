@@ -5,6 +5,14 @@ body {
   color: #eee;
   margin: 0;
   font-size: 12px;
+  /*    .carousel-overlay {
+      background-color: rgba(0, 0, 0, 0.2);
+      width: 100vw;
+      height: 100vh;
+      position: fixed;
+      z-index: 2;
+      top: 0;
+  }*/
 }
 body a {
   text-decoration: none;
@@ -284,4 +292,4 @@ header nav a {
   }
 }
 
-/*# sourceMappingURL=main.css.map */
+/*# sourceMappingURL=Main.css.map */
